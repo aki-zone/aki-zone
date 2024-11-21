@@ -45,7 +45,7 @@
 
   完整体验可尝试下载APP
 
-  ![jTfsVbdh]([E:/PC_Desktop/%E4%B8%AA%E4%BA%BAreadme.assets/jTfsVbdh.png](http://103.112.96.237:8001/api/v1/buckets/akichat/objects/download?preview=true&prefix=common%2FjTfsVbdh.png&version_id=null))
+  ![qrcode](http://103.112.96.237:8001/api/v1/buckets/akichat/objects/download?preview=true&prefix=common%2FjTfsVbdh.png&version_id=null)
 
 ## 📊 GitHub 数据统计
 
