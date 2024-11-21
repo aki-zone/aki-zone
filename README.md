@@ -30,9 +30,9 @@
 | 项目名称                                         | 项目描述                                         | 星标                                                         | 主要语言                                                     |
 | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [LuwWorld](https://github.com/aki-zone/LuwWorld) | 个人项目-基于Pillow+Cython开发的软光栅渲染引擎。 | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/LuwWorld?style=social) | ![Python](https://img.shields.io/github/languages/top/aki-zone/LuwWorld) |
-| [[OBlog](https://github.com/aki-zone/OBlog)]     | 个人项目-参照若依系统开发的admin业务系统。       | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/Oblog?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Oblog) |
+| [[PyQt5-Music-Player](https://github.com/aki-zone/PyQt5-Music-Player)]     | 个人项目-基于Pyqt5的本地音乐播放器GUI。       | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/PyQt5-Music-Player?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Oblog) |
 | [[Aki-RPC](https://github.com/aki-zone/Aki-RPC)] | 个人项目-参照open-feign开发的rpc框架             | ![GitHub Stars](https://img.shields.io/github/stars/12aaa-zone/Aki-RPC?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Aki-RPC) |
-
+| [[OBlog](https://github.com/aki-zone/OBlog)]     | 个人项目-参照若依系统开发的admin业务系统。       | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/Oblog?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Oblog) |
 ## 🌐 在线足迹
 
 ### 📝 博客与写作
