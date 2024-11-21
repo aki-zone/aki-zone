@@ -45,26 +45,17 @@
 
   完整体验可尝试下载APP
 
-  ![jTfsVbdh](E:/PC_Desktop/%E4%B8%AA%E4%BA%BAreadme.assets/jTfsVbdh.png)
+  ![jTfsVbdh]([E:/PC_Desktop/%E4%B8%AA%E4%BA%BAreadme.assets/jTfsVbdh.png](http://103.112.96.237:8001/api/v1/buckets/akichat/objects/download?preview=true&prefix=common%2FjTfsVbdh.png&version_id=null))
 
 ## 📊 GitHub 数据统计
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aki-zone&show_icons=true&theme=radical&locale=cn" alt="GitHub 统计">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aki-zone&theme=radical" alt="GitHub 连续贡献">
 </div>
-
-
-### 🏆 成就与荣誉
-
-![成就奖杯](https://github-profile-trophy.vercel.app/?username=aki-zone&theme=radical&column=7&locale=cn)
 
 ## 📬 联系方式
 
 <div align="center">
-  <a href="https://linkedin.com/in/你的用户名">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="领英">
-  </a>
   <a href="mail:1922271785@qq.com">
     <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="电子邮件">
   </a>
