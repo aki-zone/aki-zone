@@ -1,7 +1,5 @@
 #  💿你好！我是Aki - 秋✨
 
-## 🚀 关于我
-
 <div align="center">
   <img src=https://media.giphy.com/media/3oz8xur099boo4N9aU/giphy.gif?cid=790b7611z8n7me104peprcxgnzyvrrwvvyfe7sode229wxxj&ep=v1_gifs_search&rid=giphy.gif&ct=g width="auto" height="400" alt="个人介绍GIF" style="object-fit: cover; object-position: center;">
 </div>
@@ -30,7 +28,7 @@
 | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [LuwWorld](https://github.com/aki-zone/LuwWorld) | 个人项目-基于Pillow+Cython开发的软光栅渲染引擎。 | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/LuwWorld?style=social) | ![Python](https://img.shields.io/github/languages/top/aki-zone/LuwWorld) |
 | [[PyQt5-Music-Player](https://github.com/aki-zone/PyQt5-Music-Player)]     | 个人项目-基于Pyqt5的本地音乐播放器GUI。       | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/PyQt5-Music-Player?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Oblog) |
-| [[Aki-RPC](https://github.com/aki-zone/Aki-RPC)] | 个人项目-参照open-feign开发的rpc框架             | ![GitHub Stars](https://img.shields.io/github/stars/12aaa-zone/Aki-RPC?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Aki-RPC) |
+| [[Aki-RPC](https://github.com/aki-zone/Aki-RPC)] | 个人项目-个人开发的rpc框架             | ![GitHub Stars](https://img.shields.io/github/stars/12aaa-zone/Aki-RPC?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Aki-RPC) |
 | [[OBlog](https://github.com/aki-zone/OM)]     | 个人项目-参照Ruoyi开发的admin业务系统。       | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/Oblog?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Oblog) |
 ## 🌐 在线足迹
 
