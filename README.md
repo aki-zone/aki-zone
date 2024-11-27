@@ -7,17 +7,14 @@
 
 - 一个兴趣广泛的蒟蒻，热衷于图形学、人工智能、网络开发。
 - 在技术的旅程中，被好奇心、创新精神和解决实际问题~~BUG~~的渴望所驱动。
+- Come as the Struggle, Go with the Flow.
 
-  <p style="font-size: 18px; font-weight: bold; color: #FF6347; text-align: center; font-family: 'Courier New', Courier, monospace;">
-      Come as the Struggle, <span style="color: #4682B4;">Go with the Flow</span>
-  </p>
 
 ## 🔧 技术栈
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,go,html,js,vue,nodejs,docker,cs,unity,aws,git,figma" alt="技术栈图标">
 </div>
-
 
 
 ## 🌟 个人项目
@@ -32,7 +29,7 @@
 | [Aki-RPC](https://github.com/aki-zone/Aki-RPC) | 个人项目-个人开发的rpc框架             | ![GitHub Stars](https://img.shields.io/github/stars/12aaa-zone/Aki-RPC?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Aki-RPC) |
 ## 🌐 在线足迹
 
-🔗 [个人博客(维护中)](https://aki.cc) - 日常维修记录、教程和个人心路。
+🔗 [个人博客(维护中)]() - 日常维修记录、教程和个人心路。
 
 ### 🚀 在线项目
 
