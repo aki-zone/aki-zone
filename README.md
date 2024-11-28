@@ -29,7 +29,7 @@
 | [Aki-RPC](https://github.com/aki-zone/Aki-RPC) | 个人项目-个人开发的rpc框架             | ![GitHub Stars](https://img.shields.io/github/stars/12aaa-zone/Aki-RPC?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Aki-RPC) |
 ## 🌐 在线足迹
 
-🔗~~ [个人博客(维护中)]() ~~- 日常维修记录、教程和个人心路。
+🔗~~[个人博客(维护中)]()~~- 日常维修记录、教程和个人心路。
 
 ### 🚀 在线项目
 
