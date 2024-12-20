@@ -4,16 +4,15 @@
   <img src=https://media.giphy.com/media/3oz8xur099boo4N9aU/giphy.gif?cid=790b7611z8n7me104peprcxgnzyvrrwvvyfe7sode229wxxj&ep=v1_gifs_search&rid=giphy.gif&ct=g width="auto" height="400" alt="个人介绍GIF" style="object-fit: cover; object-position: center;">
 </div>
 
-
 - 一个兴趣广泛的蒟蒻，热衷于图形学、人工智能、网络开发。
 - 在技术的旅程中，被好奇心、创新精神和解决实际问题~~BUG~~的渴望所驱动。
-- Come as the Struggle, Go with the Flow.
+- **Come as the Struggle, Go with the Flow.**
 
 
 ## 🔧 技术栈
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,go,html,js,vue,nodejs,docker,cs,unity,aws,git,figma" alt="技术栈图标">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,go,rust,html,js,vue,nodejs,docker,cs,unity,aws,git,figma" alt="技术栈图标">
 </div>
 
 <!--
@@ -46,8 +45,7 @@
 ## 📬 联系方式
 
 <div align="center">
-  
-  <a href="mailto:1922271785@qq.com">
+  <a href="mailto:Makizora@qq.com">
     <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="个人邮箱">
   </a>
 </div>
