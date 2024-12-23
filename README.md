@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,python,go,rust,html,js,vue,nodejs,docker,cs,unity,aws,git,figma" alt="技术栈图标">
 </div>
 
-<!--
+
 ## 🌟 个人项目
 
 | 项目名称                                         | 项目描述                                         | 星标                                                         | 主要语言                                                     |
@@ -35,7 +35,7 @@
   完整体验可尝试下载APP版
 
   ![qrcode](http://103.112.96.237:8001/api/v1/buckets/akichat/objects/download?preview=true&prefix=common%2FjTfsVbdh.png&version_id=null)
--->
+
 ## 📊 GitHub 数据统计
 
 <div align="center">
