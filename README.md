@@ -20,10 +20,10 @@
 
 | 项目名称                                         | 项目描述                                         | 星标                                                         | 主要语言                                                     |
 | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Akichat](https://github.com/aki-zone/Akichat) | 线上项目-基于Netty集群的IM群聊应用。 | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/Akichat?style=social) | ![Java](https://img.shields.io/github/languages/top/aki-zone/Akichat) |
-| [LuwWorld](https://github.com/aki-zone/LuwWorld) | 个人项目-基于Pillow+Cython开发的软光栅渲染引擎。 | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/LuwWorld?style=social) | ![Python](https://img.shields.io/github/languages/top/aki-zone/LuwWorld) |
-| [PyQt5-Music-Player](https://github.com/aki-zone/PyQT5-Music-Player)     | 个人项目-基于Pyqt5的本地音乐播放器。       | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/PyQt5-Music-Player?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/PyQt5-Music-Player) |
-| [Aki-RPC](https://github.com/aki-zone/Aki-RPC) | 个人项目-高性能的RPC框架。             | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/Aki-RPC?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Aki-RPC) |
+| [Akichat](https://github.com/aki-zone/Akichat) | 基于Netty集群的IM群聊应用。 | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/Akichat?style=social) | ![Java](https://img.shields.io/github/languages/top/aki-zone/Akichat) |
+| [LuwWorld](https://github.com/aki-zone/LuwWorld) | 基于Pillow+Cython开发的软光栅渲染引擎。 | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/LuwWorld?style=social) | ![Python](https://img.shields.io/github/languages/top/aki-zone/LuwWorld) |
+| [PyQt5-Music-Player](https://github.com/aki-zone/PyQT5-Music-Player)     | 基于Pyqt5的本地音乐播放器。       | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/PyQt5-Music-Player?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/PyQt5-Music-Player) |
+| [Aki-RPC](https://github.com/aki-zone/Aki-RPC) | 高性能的RPC框架。             | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/Aki-RPC?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Aki-RPC) |
 
 <!--
 ## 🌐 在线足迹 
