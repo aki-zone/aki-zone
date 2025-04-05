@@ -4,12 +4,12 @@
   <img src=https://media.giphy.com/media/3oz8xur099boo4N9aU/giphy.gif?cid=790b7611z8n7me104peprcxgnzyvrrwvvyfe7sode229wxxj&ep=v1_gifs_search&rid=giphy.gif&ct=g width="auto" height="400" alt="个人介绍GIF" style="object-fit: cover; object-position: center;">
 </div>
 
-- 一个兴趣广泛的蒟蒻，热衷于图形学、人工智能、网络开发。
+- 一个兴趣广泛的蒟蒻，热衷于图形学(Games)、人工智能(LLM)、网络开发(WEB)。
 - 在技术的旅程中，被好奇心、创新精神和解决实际问题~~BUG~~的渴望所驱动。
 - **Come as the Struggle, Go with the Flow.**
 
 
-🔗[我的博客](https://www.akizora.cc/)- 日常开发记录、技术分享和个人心路，欢迎访问。
+🔗[个人博客](https://www.akizora.cc/) - 日常开发记录、技术分享和个人心路。
 
 <!--
 ## 🔧 技术栈
