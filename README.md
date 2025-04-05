@@ -8,6 +8,9 @@
 - 在技术的旅程中，被好奇心、创新精神和解决实际问题~~BUG~~的渴望所驱动。
 - **Come as the Struggle, Go with the Flow.**
 
+
+🔗[我的博客](https://www.akizora.cc/)- 日常开发记录、技术分享和个人心路，欢迎访问。
+
 <!--
 ## 🔧 技术栈
 
@@ -26,9 +29,7 @@
 | [Aki-RPC](https://github.com/aki-zone/Aki-RPC) | 个人项目-高性能开源RPC框架。             | ![GitHub Stars](https://img.shields.io/github/stars/aki-zone/Aki-RPC?style=social) | ![Language](https://img.shields.io/github/languages/top/aki-zone/Aki-RPC) |
 
 
-## 🌐 在线足迹 
 
-🔗[个人博客(维护ing...)]()- 日常维修记录、教程和个人心路。
 
 
 ### 🚀 线上项目
