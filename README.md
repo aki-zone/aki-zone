@@ -55,12 +55,11 @@
   </table>
 </div>
 
-## 📚 最近在学 | Currently Learning
+## 📚 最近事务 | Currently Learning
 
 - Go语言高性能编程与微服务架构 | High-Performance Golang & Microservices
-- 分布式系统设计与云原生应用开发 | Distributed Systems & Cloud Native
 - LLM微调与智能应用开发 | LLM Fine-tuning & AI Applications
-~~- 摸鱼 | Studying~~
+- ~~摸鱼 | Sleeping~~
 
 
 <!-- 
